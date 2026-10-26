@@ -1,5 +1,5 @@
 import os
-import feedparser
+import 
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
